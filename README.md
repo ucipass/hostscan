@@ -1,4 +1,4 @@
-# hostscan
+# Summary
 Python script to scan a port for multiple hosts. The script has no dependencies and the variables (inputs) needs to be changed inside the script!
 # Customization
 Change the following variables in the script:
